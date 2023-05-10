@@ -1,0 +1,27 @@
+
+h1 {
+	color: blue;
+}
+
+.myFonts {
+	font-size: 20px;
+	font-family: monaco;
+}
+
+.myTable {
+	width: 100%;
+	font-family: sans-serif;
+}
+
+.myButton {
+	color: white;
+	background-color: blue;
+	border: 2px solid black;
+	font-size: 24px;
+	paddding: 10px 10px 10px 10px;
+	transition-duration: 0.5s;
+}
+.myButton:hover {
+	background-color: yellow;
+	color: black;
+}
